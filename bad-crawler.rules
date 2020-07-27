@@ -1,6 +1,5 @@
 (http.user_agent contains "80legs") or
 (http.user_agent contains "Abonti") or
-(http.user_agent contains "admantx") or
 (http.user_agent contains "aipbot") or
 (http.user_agent contains "AllSubmitter") or
 (http.user_agent contains "Backlink") or 
